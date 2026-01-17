@@ -1,4 +1,5 @@
 # Autonomous Skill-Architecture Agent
+### How I Orchestrated Multi-Agent Systems to Automate Market Analysis and Personalized Curriculum Design
 
 ![Title](https://raw.githubusercontent.com/aniket-work/autonomous-skill-architecture/main/images/title_animation.gif)
 
