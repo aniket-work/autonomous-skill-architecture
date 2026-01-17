@@ -1,6 +1,6 @@
 # Autonomous Skill-Architecture Agent
 
-![Title](https://raw.githubusercontent.com/aniket-work/autonomous-skill-architecture/main/images/title-animation.gif)
+![Title](https://raw.githubusercontent.com/aniket-work/autonomous-skill-architecture/main/images/title_animation.gif)
 
 ## 🚀 Overview
 The **Autonomous Skill-Architecture Agent** is an experimental multi-agent system designed to solve the real-world business problem of **Automated Career Transitioning**. In the rapidly evolving 2026 tech landscape, professionals struggle to keep up with shifting market demands. This project demonstrates how specialized AI agents can automate the entire transition lifecycle: from market research and gap analysis to curriculum design and resource orchestration.
